@@ -191,9 +191,9 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Vp=0.31 V
 
-A= 70.4 Ma
+A= 70.4 mA
 
-V=58.2 mA
+V=58.2 mV
 
  50hz
 
@@ -206,7 +206,7 @@ Vp= 1.56 V
 
 A=69.9mA
 
-V= 58.5 mA
+V= 58.5 mV
 
 100
 
@@ -218,7 +218,7 @@ Vp= 3 V
 
 A= 67.5mA
 
-V= 58.5  mA
+V= 58.5  mV
 
 500 Hz
 
@@ -230,7 +230,7 @@ Vp= 8.2V
 
 A= 37.6mA
 
-V= 58.5 mA
+V= 58.5 mV
 
 1000
 
@@ -242,7 +242,7 @@ Vp= 10 V
 
 A= 21.2 mA
 
-V=58.6 mA
+V=58.6 mV
 
       ANALISIS DE RESULTADOS 
 
@@ -288,7 +288,7 @@ El valor eficaz de corriente se refiere a la magnitud rms de la corriente altern
 
       VIDEO:
 
-LINK:
+LINK:https://youtu.be/_weZOTiS4oQ
 
       CONCLUCIONES:
 
